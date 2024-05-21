@@ -44,7 +44,7 @@ h1, h3 {
     padding: 10px;
 }
 
-button {
+button :active{
     background-color: rgb(217, 255, 0);
     color: black;
     border: none;
